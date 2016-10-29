@@ -1,0 +1,2 @@
+Path for Genetic Algorithm from start to end is [2, 1, 0, 3, 4, 2]
+Path for Astar from start to end is [2, 1, 4, 3, 0, 2] for a cost of 1.97584527183

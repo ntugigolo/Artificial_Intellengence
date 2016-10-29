@@ -1,0 +1,2 @@
+Path for Hillclimbing from start to end is [2, 0, 1, 3, 4, 2]
+Path for Astar from start to end is [2, 4, 3, 1, 0, 2] for a cost of 21.6423929092
