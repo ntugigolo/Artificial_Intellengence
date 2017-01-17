@@ -1,6 +1,6 @@
-For 8 puzzle:
-Run Program:
-python  “Problem_3.22_PythonCode_8Puzzle_Both_AStar_RBFS.py”
+#For 8 puzzle:
+##Run Program:
+###python  “Problem_3.22_PythonCode_8Puzzle_Both_AStar_RBFS.py”
 Input.txt:
 In “Input_Pro3.22_8Puzzle.txt”, we can set the initial state of any solvable 8-Puzzle problem. 
 For example, we can start with:
@@ -10,9 +10,9 @@ where 0 represent the empty space. Our goal state is:
 Output.txt:
 In “Output_Pro3.22_8Puzzle.txt”, it shows the process from initial state to goal state for both RBFS and A* algorithm.
 
-For TSP:
-Run Program:
-python  “Problem_3.22_PythonCode_TSP_Both_AStar_RBFS.py”
+#For TSP:
+##Run Program:
+###python  “Problem_3.22_PythonCode_TSP_Both_AStar_RBFS.py”
 
 Input.txt:
 The format in “Input_Pro3.22_TSP.txt” is :
