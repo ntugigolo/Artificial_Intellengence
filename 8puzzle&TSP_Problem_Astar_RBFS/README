@@ -1,0 +1,25 @@
+For 8 puzzle:
+Run Program:
+python  “Problem_3.22_PythonCode_8Puzzle_Both_AStar_RBFS.py”
+Input.txt:
+In “Input_Pro3.22_8Puzzle.txt”, we can set the initial state of any solvable 8-Puzzle problem. 
+For example, we can start with:
+(5,0,8,1,2,7,4,3,6)
+where 0 represent the empty space. Our goal state is:
+(0,1,2,3,4,5,6,7,8)
+Output.txt:
+In “Output_Pro3.22_8Puzzle.txt”, it shows the process from initial state to goal state for both RBFS and A* algorithm.
+
+For TSP:
+Run Program:
+python  “Problem_3.22_PythonCode_TSP_Both_AStar_RBFS.py”
+
+Input.txt:
+The format in “Input_Pro3.22_TSP.txt” is :
+“Number of cities, Start city name”. 
+For example, “10, 0” means there are totally 10 cities in our domain. We start from city 0. After we input the total number of cities, the program will randomly generate the coordination for each city, and then create the distance relation table between each city.
+
+Output.txt:
+“Output_Pro3.22_TSP.txt” contains 2 part:
+1.	Path for RBFS: The path from start city to goal city using RBFS algorithm. It’s a list contains all the cities we go through.
+2.	Path for Astar: The path from start city to goal city using A star algorithm. It’s a list contains all the cities we go through.
